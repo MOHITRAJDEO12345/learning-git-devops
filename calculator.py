@@ -38,11 +38,11 @@ def add(numbers):
     return sum(numbers)
 
 
-# def multiply(numbers):
-#     result = 1.0
-#     for num in numbers:
-#         result *= num
-#     return result
+def multiply(numbers):
+    result = 1.0
+    for num in numbers:
+        result *= num
+    return result
 
 
 def subtract(a, b):
